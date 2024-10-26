@@ -1,1 +1,3 @@
-"# Neural_Networks_Scratch" 
+# Neural_Networks_Scratch
+
+writing basic root topics of NN.
